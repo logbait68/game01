@@ -1,3 +1,4 @@
+##三目並べ
 import tkinter as tk
 from tkinter import messagebox
 
